@@ -67,12 +67,6 @@ A machine learning project aimed at identifying high-risk credit card users (Rev
 
 ---
 
-## 📄 Full Report
-
-[📥 Download the Credit Risk Analysis Report (PDF)](./Credit%20Risk%20Analysis.pdf)
-
----
-
 ## 👨‍💻 Author
 
 **Deepak Arumugam Vivekanandan**  
