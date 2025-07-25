@@ -1,4 +1,3 @@
-# Credit-Risk-Analysis
 # 🧾 Credit Risk Analysis
 
 A machine learning project aimed at identifying high-risk credit card users (Revolvers) and classifying them from low-risk users (Transactors) using behavioral, demographic, and financial features. Built using real-world customer data from a banking context, the project leverages advanced modeling and explainable AI techniques to guide credit decisions and minimize financial exposure.
